@@ -1,0 +1,15 @@
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\bin\Debug\net7.0\Curso de Manejo de Datos en C# con LINQ.exe
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\bin\Debug\net7.0\Curso de Manejo de Datos en C# con LINQ.deps.json
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\bin\Debug\net7.0\Curso de Manejo de Datos en C# con LINQ.runtimeconfig.json
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\bin\Debug\net7.0\Curso de Manejo de Datos en C# con LINQ.dll
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\bin\Debug\net7.0\Curso de Manejo de Datos en C# con LINQ.pdb
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\obj\Debug\net7.0\Curso de Manejo de Datos en C# con LINQ.csproj.AssemblyReference.cache
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\obj\Debug\net7.0\Curso de Manejo de Datos en C# con LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\obj\Debug\net7.0\Curso de Manejo de Datos en C# con LINQ.AssemblyInfoInputs.cache
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\obj\Debug\net7.0\Curso de Manejo de Datos en C# con LINQ.AssemblyInfo.cs
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\obj\Debug\net7.0\Curso de Manejo de Datos en C# con LINQ.csproj.CoreCompileInputs.cache
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\obj\Debug\net7.0\Curso de Manejo de Datos en C# con LINQ.dll
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\obj\Debug\net7.0\refint\Curso de Manejo de Datos en C# con LINQ.dll
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\obj\Debug\net7.0\Curso de Manejo de Datos en C# con LINQ.pdb
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\obj\Debug\net7.0\Curso de Manejo de Datos en C# con LINQ.genruntimeconfig.cache
+C:\Users\danar\OneDrive\Escritorio\Platzi\Curso de Manejo de Datos en C# con LINQ\obj\Debug\net7.0\ref\Curso de Manejo de Datos en C# con LINQ.dll

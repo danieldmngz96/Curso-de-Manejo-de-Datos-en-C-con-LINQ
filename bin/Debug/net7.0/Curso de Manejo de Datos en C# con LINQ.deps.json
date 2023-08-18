@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Curso de Manejo de Datos en C# con LINQ/1.0.0": {
+        "runtime": {
+          "Curso de Manejo de Datos en C# con LINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curso de Manejo de Datos en C# con LINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
